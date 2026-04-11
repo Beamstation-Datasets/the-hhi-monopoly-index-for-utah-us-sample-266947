@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a5d3fd95-f858-41eb-9d93-11d67088b79a",
+  "id_short": 266947,
+  "published_at": "2026-04-11T19:10:53Z",
+  "repo_name": "the-hhi-monopoly-index-for-utah-us-sample-266947",
+  "sample_asset_name": "beamstation_266947_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/266947/beamstation_266947_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "22b004194278942f1828eef61d385767bd72d306b60968c7e72e2459aba3c5fe",
+  "sample_size_bytes": 28421,
+  "total_records": 184
+}
