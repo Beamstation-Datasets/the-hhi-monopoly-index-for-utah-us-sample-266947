@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Utah, US",
+  "export_job_id": "a5d3fd95-f858-41eb-9d93-11d67088b79a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 266947,
+  "location_name": "Utah",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-utah-us-sample-266947",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/266947/beamstation_266947_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 1.63,
+  "sample_records": 3,
+  "sample_sha256": "22b004194278942f1828eef61d385767bd72d306b60968c7e72e2459aba3c5fe",
+  "sample_size_bytes": 28421,
+  "total_records": 184,
+  "updated_at": "2026-03-31T22:55:42.553009+00:00"
+}
