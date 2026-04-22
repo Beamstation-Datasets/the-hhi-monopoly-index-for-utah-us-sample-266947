@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Utah, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `266947` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 232 records |
-| Free sample size | 23 records (9.91%) |
-| Last export | 2026-04-15T00:32:53.284799+00:00 |
+| Full dataset size | 196 records |
+| Free sample size | 19 records (9.69%) |
+| Last export | 2026-04-22T04:43:24.464886+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-utah-us-sample-266947/releases/download/sample-latest/beamstation_266947_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
